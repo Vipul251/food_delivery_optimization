@@ -1,0 +1,15 @@
+numpy
+pandas
+faiss-cpu
+scikit-learn
+torch
+tensorflow
+streamlit
+fastapi
+uvicorn
+requests
+geopy
+osmnx
+networkx
+matplotlib
+seaborn
