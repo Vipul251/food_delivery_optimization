@@ -1,8 +1,8 @@
 # food_delivery_optimization
-Food Delivery Optimization System
+Food Delivery Optimization System:
 
- Overview
-
+ Overview:
+ 
 The Food Delivery Optimization System is an AI-powered solution for optimizing food order assignments and delivery routes. This system uses FAISS (Facebook AI Similarity Search) for fast nearest-neighbor search and Reinforcement Learning (RL) to improve order dispatching and routing over time. The system is designed for FoodNest Technologies and focuses on real-time efficiency, scalability, and intelligent decision-making.
 
  Features
@@ -17,36 +17,6 @@ The Food Delivery Optimization System is an AI-powered solution for optimizing f
 * API Integration: FastAPI-based backend for seamless API interaction.
 
 * Synthetic Data Generation: Creates realistic order and rider datasets for testing and model training.
-
-* Project Structure
-
-food_delivery_optimization/
-│── app/
-│   ├── api.py              # FastAPI-based backend for API endpoints
-│   ├── dashboard.py        # Streamlit-based UI for visualization
-│── data/
-│   ├── optimized_routes.csv # Stores optimized order-to-rider assignments
-│   ├── order_assignment.csv # Stores raw order-to-rider assignment data
-│   ├── synthetic_orders.csv # Synthetic dataset for food orders
-│   ├── synthetic_riders.csv # Synthetic dataset for rider locations
-│   ├── synthetic_deliveries.csv # Simulated deliveries with timestamps
-│── models/
-│   ├── clustering.py       # Clustering for optimizing delivery zones
-│   ├── food_delivery_rl.py # Reinforcement Learning model for optimization
-│   ├── optimization.py     # FAISS-based nearest neighbor search
-│   ├── reinforcement.py    # RL-based training module
-│── utils/
-│   ├── data_loader.py      # Load and preprocess datasets
-│   ├── distance_calc.py    # Distance calculation using Haversine formula/OSRM
-│   ├── preprocess.py       # Data preprocessing for optimization
-│── venv/                   # Virtual environment (ignored in production)
-│── assign_orders.py         # Script for assigning riders to orders
-│── food_delivery_env.py     # Simulation environment for RL training
-│── generate_data.py         # Script to generate synthetic order & rider data
-│── optimize_routes.py       # Main script for food delivery route optimization
-│── train_model.py           # RL training script to optimize rider assignments
-│── requirements.txt         # Dependencies required for the project
-│── README.md                # Documentation and project details
 
 🔧 Installation
 
