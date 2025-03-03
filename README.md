@@ -51,7 +51,8 @@ Learning & Improvement: The RL model adapts over time to minimize delays.
 
 Real-Time Monitoring: The Streamlit dashboard displays live updates of orders and deliveries.
 
-📌 Future Enhancements
+📌 Future Enhancements:
+
 Traffic-Aware Routing using real-time GPS data.
 
 Demand Prediction using historical data to predict high-demand periods.
@@ -62,8 +63,7 @@ Cloud Deployment for scalability.
 🤝 Contributors
 
 Vipul Bhatt – AI Engineer & Developer 
+
 Feel Free to reach out at stl.1547vipul@gmail.com
 
 
- License
-This project is licensed under the MIT License.
