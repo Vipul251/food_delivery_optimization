@@ -84,7 +84,6 @@ Step	Module	Description
 AI Engineer & Developer
 📧 Email: contact.vipulbhatt@gmail.com
 
-📄 License
-This project is licensed under the MIT License – see LICENSE for details.
+
 
 
