@@ -40,7 +40,7 @@ Realistic rider and order datasets are programmatically generated to test, train
 bash
 Copy
 Edit
-git clone https://github.com/your-username/food_delivery_optimization.git
+git clone https://github.com/Vipul251/food_delivery_optimization.git
 cd food_delivery_optimization
 2️⃣ Set Up Environment & Install Dependencies
 bash
